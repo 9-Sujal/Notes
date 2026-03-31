@@ -1,2 +1,2 @@
 # Notes
-this repository contains all my notes. 
+This repository contains all my notes. 
